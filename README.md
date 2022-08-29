@@ -14,7 +14,7 @@ Og så må vi koble nettleseren til micro:biten, så vi kan laste ned programmen
 
 ##Steg 000 
 
-Trykk på det tre prikkene ved siden av "Last ned" og så "Connect Device". Følg informasjonen på skjermen for å koble til.
+Trykk på de tre prikkene ved siden av "Last ned" og så "Connect Device". Følg informasjonen på skjermen for å koble til.
 
 Hvis ikonet på "Last ned" ser ut som et micro:bit-ansikt i stedet for et papir-ark med en pil, har dere gjort det riktig.
 
